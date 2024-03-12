@@ -1,0 +1,749 @@
+{
+    "homiylar": [
+        {
+            "name": "KitchenAid",
+            "url": "https://gipermart-images.netlify.app/Brend/brand16.png"
+        },
+        {
+            "name": "Sony",
+            "url": "https://gipermart-images.netlify.app/Brend/brand15.png"
+        },
+        {
+            "name": "Haier",
+            "url": "https://gipermart-images.netlify.app/Brend/brand14.png"
+        },
+        {
+            "name": "Bosch",
+            "url": "https://gipermart-images.netlify.app/Brend/brand13.png"
+        },
+        {
+            "name": "Mi",
+            "url": "https://gipermart-images.netlify.app/Brend/brand12.png"
+        },
+        {
+            "name": "Huawei",
+            "url": "https://gipermart-images.netlify.app/Brend/brand11.png"
+        },
+        {
+            "name": "LG",
+            "url": "https://gipermart-images.netlify.app/Brend/brand10.png"
+        },
+        {
+            "name": "Hp",
+            "url": "https://gipermart-images.netlify.app/Brend/brand9.png"
+        },
+        {
+            "name": "logitech",
+            "url": "https://gipermart-images.netlify.app/Brend/brand8.png"
+        },
+        {
+            "name": "Apple",
+            "url": "https://gipermart-images.netlify.app/Brend/brand5.png"
+        },
+        {
+            "name": "Tefal",
+            "url": "https://gipermart-images.netlify.app/Brend/brand4.png"
+        },
+        {
+            "name": "Samsung",
+            "url": "https://gipermart-images.netlify.app/Brend/brand3.png"
+        },
+        {
+            "name": "Oppo",
+            "url": "https://gipermart-images.netlify.app/Brend/brand2.png"
+        },
+        {
+            "name": "WMF",
+            "url": "https://gipermart-images.netlify.app/Brend/brand1.png"
+        },
+        {
+            "name": "Whirelpool",
+            "url": "https://gipermart-images.netlify.app/Brend/brand7.png"
+        },
+        {
+            "name": "Honor",
+            "url": "https://gipermart-images.netlify.app/Brend/brand6.png"
+        }
+    ],
+    "banners": [
+        {
+            "id": 1,
+            "title": "Samsung S24 Ultra",
+            "img": "https://olcha.uz/image/original/sliders/oz/HzvegEOhqvFxSyXUset2y7Ok3j2vREoUjvvFCNs2tUVpxepC0i3pn0YStkCU.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Kitoblar",
+            "img": "https://olcha.uz/image/original/sliders/ru/JwFP8H3qk55szQrT7xiLJzB71g6gAChEtieJYv4aFEJ3udzLC1mAKRFFInww.png"
+        },
+        {
+            "id": 3,
+            "title": "Elektronika",
+            "img": "https://cdn.mediapark.uz/imgs/b128fd3a-71ac-45ad-a75c-51b3981edb95.webp"
+        },
+        {
+            "id": 4,
+            "title": "Video kartalar",
+            "img": "https://olcha.uz/image/original/sliders/oz/JbZXKLnK8jX2hNbIgi4eXJ3qvZ2jS5vxaJEFA8eZmUN1tsEyQjekKLTDN13t.png"
+        },
+        {
+            "id": 5,
+            "title": "Samsung A05 end A05s",
+            "img": "https://olcha.uz/image/original/sliders/oz/sH2cyvYl2BqmUQu5srVpMoGJUxLZd8EqxmfQR6m7sjYRJ0PtKNt5UfSHUI7b.jpg"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "title": "product 1"
+        }
+    ],
+    "category": [
+        {
+            "name": "Смартфоны и планшеты",
+            "img": "https://gipermart-images.netlify.app/Categories/phone_category.png",
+            "datakey": "tel",
+            "p1": "Планшеты",
+            "p2": "Электронные книги",
+            "p3": "Аксессуары для планшетов",
+            "p4": "Показать все "
+        },
+        {
+            "name": "Ноутбуки",
+            "img": "https://gipermart-images.netlify.app/Categories/laptop_category.png",
+            "datakey": "Kompyuter",
+            "p1": "Ультрабуки",
+            "p2": "Моноблоки",
+            "p3": "Системные блоки",
+            "p4": "Показать все "
+        },
+        {
+            "name": "Авто мото товары",
+            "img": "https://gipermart-images.netlify.app/Categories/avto_category.png",
+            "datakey": "Avto",
+            "p1": "Тюнинг и детализация",
+            "p2": "Диски и шины",
+            "p3": "Стартер acx",
+            "p4": "Показать все "
+        },
+        {
+            "name": "Компьютеры для геймеров",
+            "img": "https://gipermart-images.netlify.app/Categories/game_category.png",
+            "datakey": "Kompyuter",
+            "p1": "Игровые ноутбуки",
+            "p2": "Геймпад Джойстик ",
+            "p3": "Игровой коврик",
+            "p4": "Показать все "
+        },
+        {
+            "name": "Бытовая техника",
+            "img": "https://gipermart-images.netlify.app/Categories/home_category.png",
+            "datakey": "electronika",
+            "p1": "Микроволновые печи",
+            "p2": "Миксеры и блендеры",
+            "p3": "Мультиварки",
+            "p4": "Показать все "
+        },
+        {
+            "name": "Спорт",
+            "img": "https://gipermart-images.netlify.app/Categories/sport.png",
+            "datakey": "sport",
+            "p1": "Беговая дорожка",
+            "p2": "Спортивные часы",
+            "p3": "Зимние виды спорта",
+            "p4": "Показать все"
+        }
+    ],
+    "tel": [
+        {
+            "id": 100,
+            "brend": "Samsung",
+            "title": "Samsung Galaxy A12",
+            "count": 18,
+            "ram": 32,
+            "color": "Qora",
+            "price": 125,
+            "sprice": 163,
+            "url": "https://gipermart-images.netlify.app/Phones/phone1.png",
+            "description": "Samsung A12ni hamyonbop qurilma sifatida taqdim qilgan bo`lsa ham, uning tashqi ko`rinishi jozibali bo`lishi ustida alohida ishlagan"
+        },
+        {
+            "id": 101,
+            "brend": "Samsung",
+            "title": "Samsung Galaxy S21",
+            "count": 14,
+            "ram": 128,
+            "color": "Oq",
+            "price": 287,
+            "sprice": 352,
+            "url": "https://gipermart-images.netlify.app/Phones/phone2.png",
+            "description": "Samsung kompaniyasi Galaxy smartfonlarining yangi flagman to`plami — S21|S21+|S21 Ultra, simsiz premium Buds Pro quloqchinlarini va SmartTag Bluetooth trekerlarini taqdim etdi. "
+        },
+        {
+            "id": 102,
+            "brend": "Samsung",
+            "title": "Samsung Galaxy S21",
+            "count": 21,
+            "ram": 256,
+            "color": "Qora",
+            "price": 378,
+            "sprice": 419,
+            "url": "https://gipermart-images.netlify.app/Phones/phone3.png",
+            "description": "Samsung kompaniyasi Galaxy smartfonlarining yangi flagman to`plami — S21|S21+|S21 Ultra, simsiz premium Buds Pro quloqchinlarini va SmartTag Bluetooth trekerlarini taqdim etdi. "
+        },
+        {
+            "id": 103,
+            "brend": "Mi",
+            "title": "Xiaomi Mi 10T",
+            "count": 25,
+            "ram": 128,
+            "color": "Qora",
+            "price": 195,
+            "sprice": 251,
+            "url": "https://gipermart-images.netlify.app/Phones/phone4.png",
+            "description": "Xiaomi ekrani 144 gerts va Snapdragon 865 o`rnatilgan hamyonbop Mi 10T flagmanlarini taqdim etdi"
+        },
+        {
+            "id": 104,
+            "brend": "Samsung",
+            "title": "Samsung Galaxy A12",
+            "count": 15,
+            "ram": 32,
+            "color": "Qora",
+            "price": 125,
+            "sprice": 163,
+            "url": "https://gipermart-images.netlify.app/Phones/phone1.png",
+            "description": "Samsung A12ni hamyonbop qurilma sifatida taqdim qilgan bo`lsa ham, uning tashqi ko`rinishi jozibali bo`lishi ustida alohida ishlagan"
+        },
+        {
+            "id": 105,
+            "brend": "Mi",
+            "title": "Xiaomi Redmi 9",
+            "count": 8,
+            "ram": 64,
+            "color": "Qora",
+            "price": 88,
+            "sprice": 115,
+            "url": "https://gipermart-images.netlify.app/Phones/phone6.png",
+            "description": "Xiaomi Mi 9-ning yangi flagmani rasmiy ravishda e’lon qilinishidan kamida ikki oy oldin smartfonlar haqidagi barcha tafsilotlar, hatto narxi ham ma`lum bo`ldi"
+        },
+        {
+            "id": 1,
+            "brend": "Apple",
+            "title": "15 Pro Max",
+            "count": 5,
+            "ram": 256,
+            "color": "Oq",
+            "price": 1700,
+            "sprice": 1823,
+            "url": "https://images.uzum.uz/cnhjeio4idugcqefu400/original.jpg",
+            "description": "iPhone 15 Pro Max ulkan 6,7 dyuymli Super Retina xdr OLED ekraniga ega bo'lib, u tengsiz tasvir sifatini ta'minlaydi. Kuchli protsessor har qanday foydalanish holatlarida silliq va tezkor ishlashni kafolatlaydi. Uchta linzali, optik stabilizatsiya va 'kino effekti' funksiyasiga ega asosiy kamera sizga professional sifatli fotosuratlar va videolarni suratga olish imkonini beradi. Face ID texnologiyasi qurilmaga tez va xavfsiz kirishni ta'minlaydi."
+        },
+        {
+            "id": 2,
+            "brend": "Apple",
+            "title": "14 Pro",
+            "count": 11,
+            "ram": 1300,
+            "color": "Binafsha",
+            "price": 400,
+            "sprice": 531,
+            "url": "https://images.uzum.uz/cjavcubk9fq5pecv0v00/original.jpg",
+            "description": "IPhone bilan ishlashning yangi sehrli usuli. Hayotni saqlab qolish uchun yaratilgan innovatsion xavfsizlik xususiyatlari. Ajoyib tafsilotlar uchun innovatsion 48 megapikselli kamera. Ularning barchasi smartfonlar uchun eng yangi chip bilan jihozlangan. Har qanday smartfon oynasidan ko'ra bardoshli keramik ekran bilan. Suvga chidamli. Jarrohlik sinfidagi zanglamaydigan po'lat. Dynamic Island-ni taqdim etamiz, bu Apple-ning apparat va dasturiy ta'minotdan iborat chinakam innovatsion rivojlanishi. U musiqa, sport ko'rsatkichlari, FaceTime va boshqalarni ijro etadi — bularning barchasi sizni qilayotgan ishingizdan chalg'itmasdan."
+        },
+        {
+            "id": 3,
+            "brend": "Samsung",
+            "title": "Samsung A54 5G",
+            "count": 10,
+            "ram": 128,
+            "color": "Qora",
+            "price": 410,
+            "sprice": 500,
+            "url": "https://images.uzum.uz/cmnk9j1s99ouqbfrk3v0/original.jpg",
+            "description": "Smartfon Ekranning yangilanish tezligi 120 Gts, Nano SIM sim turi Telefon SIM-kartalar soni 2, IP67 himoya darajasi Samsung Exynos 1380 Protsessori, smartfon Android 13 OS versiyasi, Xotira kartasi uyasi mavjud, NFC mavjud, 3G, 4G LTE, 5G aloqa standarti, Bluetooth 5.3 Standarti 32 MP old kamera Asosiy kamera 50 MP, 12 MP, 5 MP Telfon Og'irligi 202 g Batareya quvvati 5000 ma / soat Ekran o'lchamlari 2340 * 1080 Super AMOLED ekran turi Tilfon Ekran diagonali 6.4' Ichki xotira hajmi 128 GB Operativ xotira hajmi 6 GB Samsung Brendi"
+        },
+        {
+            "id": 4,
+            "brend": "Samsung",
+            "title": "Samsung S22 Ultra",
+            "count": 18,
+            "ram": 256,
+            "color": "Oq",
+            "price": 1700,
+            "sprice": 1830,
+            "url": "https://images.uzum.uz/cegk47ivtie1lhbf76lg/original.jpg",
+            "description": "Eslatma kuchi bilan Galaxy S22 Ultra bilan tanishing. Uning ingichka alyuminiy korpusi o'zining mukammal shakli bilan taassurot qoldiradi. Va asosiy kameralarning ajoyib konturlari uning silliq yuzasiga ko'milganga o'xshaydi. Elektron qalam s pen S seriyasida birinchi marta.eslatma olish, rasm chizish yoki smartfonni boshqarish uchun uni ishning pastki qismidan chiqarib oling. Samsung Notes-dagi yaxshilangan javob qalamning har bir zarbasini xuddi oddiy qalam bilan yozayotgandek tabiiy qiladi va sizning g'oyalaringiz bir zumda tushunarli matnga aylanadi. Innovatsion 4nm chip yuqori darajadagi quvvatni ta'minlaydi. Ajoyib tungi suratlar, ajoyib aniq fotosuratlar va ajoyib mobil o'yin g'alabalaridan bahramand bo'ling."
+        },
+        {
+            "id": 5,
+            "brend": "Samsung",
+            "title": "Samsung S24+",
+            "count": 3,
+            "ram": 512,
+            "color": "Binafsha",
+            "price": 1200,
+            "sprice": 1280,
+            "url": "https://images.uzum.uz/cna4kv3ifoubkc6sm8ng/original.jpg",
+            "description": "Galaxy AI shu yerda, Mobil AI davriga xush kelibsiz. Hayotingizdagi eng muhim qurilma — yangi Galaxy S24 bilan ijodkorlik va mahsuldorlikning yangi darajalarini oching. S24+, Galaxy AI. Shunchaki. Siz uchun. Galaxy S24 Plus burchaklarining haddan tashqari yaqindan ko`rinishi. Qurilma sekin aylanadi. Keyin u yon tugmachalarning yaqindan suratini ko'rsatadi va orqa panelni ochish uchun aylanadi. Keyin qurilmaning butun orqa ko'rinishi ko'rsatiladi. Tutish oson. Yaxshi teginish. Atlas ko`rinishidagi matli qoplamaga ega Galaxy S24 va S24+ tashqi ko`rinishi kabi ajoyib his qiladi."
+        },
+        {
+            "id": 6,
+            "brend": "Mi",
+            "title": "Mi Note 12 Pro 4G",
+            "count": 23,
+            "ram": 256,
+            "color": "ko`k",
+            "price": 357,
+            "sprice": 400,
+            "url": "https://olcha.uz/image/700x700/products/supplier/stores/1/2023-05-23/7wO5zgmOAqP8P6mhcAI5Pwl4DPmZNrciCFUtitqULXadj4KRRuvB2baBxg8z.jpg",
+            "description": "Redmi Note 12 Pro — bu ajoyib displey, professional kameralar va kuchli energiya tejaydigan protsessorga ega zamonaviy smartfon. Batareya qurilmasi kun bo'yi ishlaydi va Xiaomi 67w aqlli zaryadlash texnologiyasini qo'llab-quvvatlaydi. Elegant dizayn Xiaomi Redmi Note 12 Pro korpusi zamonaviy uslubda yaratilgan. Mat Baxmal qoplama teginish uchun yoqimli, nashrlarni yig'maydi. Ekran Corning Gorilla Glass 5 tomonidan tirnalish va shikastlanishdan himoyalangan. Qurilmaning og'irligi 202 g, o'lchamlari 164. 2x76. 1x8. 1 mm. Haqiqiy mavjudlik effekti uchun yorqin ekrandir."
+        },
+        {
+            "id": 7,
+            "brend": "Samsung",
+            "title": "Samsung A54 5G",
+            "count": 9,
+            "ram": 128,
+            "color": "Qora",
+            "price": 400,
+            "sprice": 617,
+            "url": "https://images.uzum.uz/cmnk9j1s99ouqbfrk3v0/original.jpg",
+            "description": "Smartfon Ekranning yangilanish tezligi 120 Gts, Nano SIM sim turi Telefon SIM-kartalar soni 2, IP67 himoya darajasi Samsung Exynos 1380 Protsessori, smartfon Android 13 OS versiyasi, Xotira kartasi uyasi mavjud, NFC mavjud, 3G, 4G LTE, 5G aloqa standarti, Bluetooth 5.3 Standarti 32 MP old kamera Asosiy kamera 50 MP, 12 MP, 5 MP Telfon Og'irligi 202 g Batareya quvvati 5000 ma / soat Ekran o'lchamlari 2340 * 1080 Super AMOLED ekran turi Tilfon Ekran diagonali 6.4' Ichki xotira hajmi 128 GB Operativ xotira hajmi 6 GB Samsung Brendi"
+        },
+        {
+            "id": 8,
+            "brend": "Samsung",
+            "title": "Samsung S22 Ultra",
+            "count": 8,
+            "ram": 256,
+            "color": "Oq",
+            "price": 1700,
+            "sprice": 1910,
+            "url": "https://images.uzum.uz/cegk47ivtie1lhbf76lg/original.jpg",
+            "description": "Eslatma kuchi bilan Galaxy S22 Ultra bilan tanishing. Uning ingichka alyuminiy korpusi o'zining mukammal shakli bilan taassurot qoldiradi. Va asosiy kameralarning ajoyib konturlari uning silliq yuzasiga ko'milganga o'xshaydi. Elektron qalam s pen S seriyasida birinchi marta.eslatma olish, rasm chizish yoki smartfonni boshqarish uchun uni ishning pastki qismidan chiqarib oling. Samsung Notes-dagi yaxshilangan javob qalamning har bir zarbasini xuddi oddiy qalam bilan yozayotgandek tabiiy qiladi va sizning g'oyalaringiz bir zumda tushunarli matnga aylanadi. Innovatsion 4nm chip yuqori darajadagi quvvatni ta'minlaydi. Ajoyib tungi suratlar, ajoyib aniq fotosuratlar va ajoyib mobil o'yin g'alabalaridan bahramand bo'ling."
+        },
+        {
+            "id": 9,
+            "brend": "Samsung",
+            "title": "Samsung S24+",
+            "count": 10,
+            "ram": 512,
+            "color": "Binafsha",
+            "price": 1200,
+            "sprice": 1300,
+            "url": "https://images.uzum.uz/cna4kv3ifoubkc6sm8ng/original.jpg",
+            "description": "Galaxy AI shu yerda, Mobil AI davriga xush kelibsiz. Hayotingizdagi eng muhim qurilma — yangi Galaxy S24 bilan ijodkorlik va mahsuldorlikning yangi darajalarini oching. S24+, Galaxy AI. Shunchaki. Siz uchun. Galaxy S24 Plus burchaklarining haddan tashqari yaqindan ko`rinishi. Qurilma sekin aylanadi. Keyin u yon tugmachalarning yaqindan suratini ko'rsatadi va orqa panelni ochish uchun aylanadi. Keyin qurilmaning butun orqa ko'rinishi ko'rsatiladi. Tutish oson. Yaxshi teginish. Atlas ko`rinishidagi matli qoplamaga ega Galaxy S24 va S24+ tashqi ko`rinishi kabi ajoyib his qiladi."
+        },
+        {
+            "id": 10,
+            "brend": "Mi",
+            "title": "Mi Note 12 Pro 4G",
+            "count": 12,
+            "ram": 256,
+            "color": "ko`k",
+            "price": 357,
+            "sprice": 394,
+            "url": "https://olcha.uz/image/700x700/products/supplier/stores/1/2023-05-23/7wO5zgmOAqP8P6mhcAI5Pwl4DPmZNrciCFUtitqULXadj4KRRuvB2baBxg8z.jpg",
+            "description": "Redmi Note 12 Pro — bu ajoyib displey, professional kameralar va kuchli energiya tejaydigan protsessorga ega zamonaviy smartfon. Batareya qurilmasi kun bo'yi ishlaydi va Xiaomi 67w aqlli zaryadlash texnologiyasini qo'llab-quvvatlaydi. Elegant dizayn Xiaomi Redmi Note 12 Pro korpusi zamonaviy uslubda yaratilgan. Mat Baxmal qoplama teginish uchun yoqimli, nashrlarni yig'maydi. Ekran Corning Gorilla Glass 5 tomonidan tirnalish va shikastlanishdan himoyalangan. Qurilmaning og'irligi 202 g, o'lchamlari 164. 2x76. 1x8. 1 mm. Haqiqiy mavjudlik effekti uchun yorqin ekrandir."
+        }
+    ],
+    "laptop": [
+        {
+            "id": 1,
+            "brend": "Asus",
+            "title": "Asus Tuf Game",
+            "Xotira": 512,
+            "color": "Oq",
+            "Protsessor": "Intel Core I7",
+            "price": 900,
+            "sprice": 1055,
+            "url": "https://images.uzum.uz/cn06bips99ouqbft7img/original.jpg",
+            "description": "Protsessor: Intel Core i7-11800H protsessori bilan jihozlangan, u yuqori unumdorlikka ega kuchli hisoblash yadrosini ifodalaydi. Talab qilinadigan ilovalar va zamonaviy o'yinlar uchun javob beradi. Grafika: NVIDIA RTX 2050 grafik tezlatkichi bilan jihozlangan bo`lib, u ajoyib grafikalar va o`yinlarda maksimal realizm uchun nurlarni kuzatish texnologiyalarini qo`llab-quvvatlaydi. Xotira: 8 GB operativ xotiraga ega, bu tizimning uzluksiz ishlashini va bir vaqtning o'zida bir nechta ilovalarni ishga tushirishda ko'p vazifalarni bajarishni ta'minlaydi."
+        },
+        {
+            "id": 2,
+            "brend": "Apple",
+            "title": "MacBook Air 13 M1",
+            "Xotira": 256,
+            "color": "Gray",
+            "Protsessor": "Apple M1",
+            "price": 1120,
+            "sprice": 1320,
+            "url": "https://images.uzum.uz/cnat9s1s99ouqbfvegsg/original.jpg",
+            "description": "Apple M1 chipining kelishi bilan bizning eng nozik va engil noutbukimiz butunlay o'zgartirildi. Markaziy protsessor endi 3,5 baravar tezroq ishlaydi. Grafik-5 martagacha. Va bizning ilg'or Neural Engine tizimimiz tufayli mashinani o'rganish tezligi 9 baravarga oshdi. Yangi MacBook Air bir zaryadda oldingi modellarga qaraganda uzoqroq ishlaydi. Va umuman shovqin qilmaydi, chunki uning muxlisi yo'q. Quvvat hech qachon bunchalik ixcham bo'lmagan. Kichkina chip-bu katta yutuq."
+        },
+        {
+            "id": 3,
+            "title": "ASUS ROG STRIX G614",
+            "Xotira": 512,
+            "color": "Qora",
+            "Protsessor": "Intel Core I7",
+            "price": 1800,
+            "sprice": 1940,
+            "url": "https://cdn.mediapark.uz/imgs/1f22a8cc-6907-4eec-bd3d-cbc24e4438ff_7lypzqm2t8w5ux2mkj71w60w28tmqwen.webp",
+            "description": "Noutbuk ASUS ROG STRIX G614J I7-13650HX/16GB Windows 11 Pro operatsion tizimida ishlaydigan ROG Strix G614 bilan soniyasiga ko`proq kadrlar oling va ko`proq o`yinlarni yutib oling. U Intel Core i7-13650hx protsessori , NVIDIA  GeForce RTX 4080 noutbuk grafik kartasi, yuqori tezlikdagi SSD va ilg'or DDR5 RAMni o'z ichiga olishi mumkin bo'lgan kuchli konfiguratsiya bilan virtual jang maydonida hukmronlik qilishga tayyor."
+        },
+        {
+            "id": 4,
+            "brend": "Asus",
+            "title": "Asus Tuf Game",
+            "Xotira": 512,
+            "color": "Oq",
+            "Protsessor": "Intel Core I7",
+            "price": 900,
+            "sprice": 1055,
+            "url": "https://images.uzum.uz/cn06bips99ouqbft7img/original.jpg",
+            "description": "Protsessor: Intel Core i7-11800H protsessori bilan jihozlangan, u yuqori unumdorlikka ega kuchli hisoblash yadrosini ifodalaydi. Talab qilinadigan ilovalar va zamonaviy o'yinlar uchun javob beradi. Grafika: NVIDIA RTX 2050 grafik tezlatkichi bilan jihozlangan bo`lib, u ajoyib grafikalar va o`yinlarda maksimal realizm uchun nurlarni kuzatish texnologiyalarini qo`llab-quvvatlaydi. Xotira: 8 GB operativ xotiraga ega, bu tizimning uzluksiz ishlashini va bir vaqtning o'zida bir nechta ilovalarni ishga tushirishda ko'p vazifalarni bajarishni ta'minlaydi."
+        },
+        {
+            "id": 5,
+            "brend": "Apple",
+            "title": "MacBook Air 13 M1",
+            "Xotira": 256,
+            "color": "Gray",
+            "Protsessor": "Apple M1",
+            "price": 1120,
+            "sprice": 1320,
+            "url": "https://images.uzum.uz/cnat9s1s99ouqbfvegsg/original.jpg",
+            "description": "Apple M1 chipining kelishi bilan bizning eng nozik va engil noutbukimiz butunlay o'zgartirildi. Markaziy protsessor endi 3,5 baravar tezroq ishlaydi. Grafik-5 martagacha. Va bizning ilg'or Neural Engine tizimimiz tufayli mashinani o'rganish tezligi 9 baravarga oshdi. Yangi MacBook Air bir zaryadda oldingi modellarga qaraganda uzoqroq ishlaydi. Va umuman shovqin qilmaydi, chunki uning muxlisi yo'q. Quvvat hech qachon bunchalik ixcham bo'lmagan. Kichkina chip-bu katta yutuq."
+        },
+        {
+            "id": 6,
+            "brend": "Asus",
+            "title": "ASUS ROG STRIX G614",
+            "Xotira": 512,
+            "color": "Qora",
+            "Protsessor": "Intel Core I7",
+            "price": 1800,
+            "sprice": 1940,
+            "url": "https://cdn.mediapark.uz/imgs/1f22a8cc-6907-4eec-bd3d-cbc24e4438ff_7lypzqm2t8w5ux2mkj71w60w28tmqwen.webp",
+            "description": "Noutbuk ASUS ROG STRIX G614J I7-13650HX/16GB Windows 11 Pro operatsion tizimida ishlaydigan ROG Strix G614 bilan soniyasiga ko`proq kadrlar oling va ko`proq o`yinlarni yutib oling. U Intel Core i7-13650hx protsessori , NVIDIA  GeForce RTX 4080 noutbuk grafik kartasi, yuqori tezlikdagi SSD va ilg'or DDR5 RAMni o'z ichiga olishi mumkin bo'lgan kuchli konfiguratsiya bilan virtual jang maydonida hukmronlik qilishga tayyor."
+        },
+        {
+            "id": 7,
+            "brend": "Asus",
+            "title": "Asus Tuf Game",
+            "Xotira": 512,
+            "color": "Oq",
+            "Protsessor": "Intel Core I7",
+            "price": 900,
+            "sprice": 1055,
+            "url": "https://images.uzum.uz/cn06bips99ouqbft7img/original.jpg",
+            "description": "Protsessor: Intel Core i7-11800H protsessori bilan jihozlangan, u yuqori unumdorlikka ega kuchli hisoblash yadrosini ifodalaydi. Talab qilinadigan ilovalar va zamonaviy o'yinlar uchun javob beradi. Grafika: NVIDIA RTX 2050 grafik tezlatkichi bilan jihozlangan bo`lib, u ajoyib grafikalar va o`yinlarda maksimal realizm uchun nurlarni kuzatish texnologiyalarini qo`llab-quvvatlaydi. Xotira: 8 GB operativ xotiraga ega, bu tizimning uzluksiz ishlashini va bir vaqtning o'zida bir nechta ilovalarni ishga tushirishda ko'p vazifalarni bajarishni ta'minlaydi."
+        },
+        {
+            "id": 8,
+            "brend": "Apple",
+            "title": "MacBook Air 13 M1",
+            "Xotira": 256,
+            "color": "Gray",
+            "Protsessor": "Apple M1",
+            "price": 1120,
+            "sprice": 1320,
+            "url": "https://images.uzum.uz/cnat9s1s99ouqbfvegsg/original.jpg",
+            "description": "Apple M1 chipining kelishi bilan bizning eng nozik va engil noutbukimiz butunlay o'zgartirildi. Markaziy protsessor endi 3,5 baravar tezroq ishlaydi. Grafik-5 martagacha. Va bizning ilg'or Neural Engine tizimimiz tufayli mashinani o'rganish tezligi 9 baravarga oshdi. Yangi MacBook Air bir zaryadda oldingi modellarga qaraganda uzoqroq ishlaydi. Va umuman shovqin qilmaydi, chunki uning muxlisi yo'q. Quvvat hech qachon bunchalik ixcham bo'lmagan. Kichkina chip-bu katta yutuq."
+        },
+        {
+            "id": 9,
+            "brend": "Asus",
+            "title": "ASUS ROG STRIX G614",
+            "Xotira": 512,
+            "color": "Qora",
+            "Protsessor": "Intel Core I7",
+            "price": 1800,
+            "sprice": 1940,
+            "url": "https://cdn.mediapark.uz/imgs/1f22a8cc-6907-4eec-bd3d-cbc24e4438ff_7lypzqm2t8w5ux2mkj71w60w28tmqwen.webp",
+            "description": "Noutbuk ASUS ROG STRIX G614J I7-13650HX/16GB Windows 11 Pro operatsion tizimida ishlaydigan ROG Strix G614 bilan soniyasiga ko`proq kadrlar oling va ko`proq o`yinlarni yutib oling. U Intel Core i7-13650hx protsessori , NVIDIA  GeForce RTX 4080 noutbuk grafik kartasi, yuqori tezlikdagi SSD va ilg'or DDR5 RAMni o'z ichiga olishi mumkin bo'lgan kuchli konfiguratsiya bilan virtual jang maydonida hukmronlik qilishga tayyor."
+        }
+    ],
+    "avto": [],
+    "kompyuter": [
+        {
+            "url": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img.jpg?token=GHSAT0AAAAAACOWD3AT5LM7I5F5NCALJIXKZPG7UXQ",
+            "title": "Ноутбук Asus ROG Zephyrus Duo 16 GX650RW-LO120X R9-6900HX 32GB 1TB SSD",
+            "brend": "Asus",
+            "price": 451,
+            "sprice": 498,
+            "color": "Qora",
+            "ram": "16 GB",
+            "geForce": "RTX 4090",
+            "core": "Intel I7",
+            "display": "16.5 Full HD",
+            "memory": "528 GB",
+            "weight": "1.5 KG",
+            "id": 100
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img2.jpeg?token=GHSAT0AAAAAACOWD3ATUOVDQ6M4JJ4YXRJOZPG733Q",
+            "title": "Ноутбук MSI Pulse GL76 12UGK-258 i7-12700H 16 GB 1TB SSD RTX3070 8G 17.3",
+            "brend": "Asus",
+            "price": 976,
+            "sprice": 1020,
+            "color": "Qora",
+            "ram": "32 GB",
+            "geForce": "RTX 4080",
+            "core": "Intel I7",
+            "display": "16.5 Full HD",
+            "memory": "528 GB",
+            "weight": "1.5 KG",
+            "id": 101
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img3.jpeg?token=GHSAT0AAAAAACOWD3ATDKTYPIV4NWPOI42QZPG76CA",
+            "title": "Ноутбук HP Pavilion x360 i5-1235U 8/512 GB 14 FHD",
+            "brend": "HP",
+            "price": 830,
+            "sprice": 880,
+            "color": "Qora",
+            "ram": "8 GB",
+            "geForce": "RTX 4090",
+            "core": "Intel I5",
+            "display": "16.5 Full HD",
+            "memory": "280 GB",
+            "weight": "1.5 KG",
+            "id": 102
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img4.jpeg?token=GHSAT0AAAAAACOWD3ATVKXLIMQQ5WR42LKCZPG77BQ",
+            "title": "Ноутбук HP 15-FQ5295NIA I5-1235U 8/512 GB SSD DOS 15.6",
+            "brend": "HP",
+            "price": 737,
+            "sprice": 795,
+            "color": "Qora",
+            "ram": "16 GB",
+            "geForce": "RTX 4090",
+            "core": "Intel I5",
+            "display": "16.5 Full HD",
+            "memory": "280 GB",
+            "weight": "1.5 KG",
+            "id": 103
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img5.jpeg?token=GHSAT0AAAAAACOWD3ATXLUKJQPRK36ALEK6ZPHABMQ",
+            "title": "Ноутбук Lenovo IdeaPad 1 15IAU7 i5-1235U 256 GB 15.6 FHD (82QD003VUS)",
+            "brend": "Lenovo",
+            "price": 774,
+            "sprice": 820,
+            "color": "Qora",
+            "ram": "8 GB",
+            "geForce": "RTX 4090",
+            "core": "Intel I5",
+            "display": "16.5 Full HD",
+            "memory": "280 GB",
+            "weight": "1.5 KG",
+            "id": 104
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img6.jpeg?token=GHSAT0AAAAAACOWD3ATTF7XT3T5O4NV267SZPHACIQ",
+            "title": "Игровой ноутбук Asus Tuf Gaming F15 FX507ZC4-HN009",
+            "brend": "Asus",
+            "price": 1099,
+            "sprice": 1210,
+            "color": "Qora",
+            "ram": "32 GB",
+            "geForce": "RTX 4090",
+            "core": "Intel I9",
+            "display": "16.5 Full HD",
+            "memory": "512 GB",
+            "weight": "2.5 KG",
+            "id": 105
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img7.jpeg?token=GHSAT0AAAAAACOWD3ASFPYEXDHRXA3N7EPSZPHADNA",
+            "title": "Ноутбук Lenovo MateBook D 14 2023 i3-1215U 8 GB 256GB",
+            "brend": "Lenovo",
+            "price": 664,
+            "sprice": 798,
+            "color": "Qora",
+            "ram": "8 GB",
+            "geForce": "RTX 4090",
+            "core": "Intel I5",
+            "display": "16.5 Full HD",
+            "memory": "280 GB",
+            "weight": "1.5 KG",
+            "id": 106
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img8.jpeg?token=GHSAT0AAAAAACOWD3AT7ZX2H5TAF6ZCZGIWZPHAESQ",
+            "title": "Ноутбук Msi Cyborg 15 A12VE-091XKR i7 12650H 8/512GB",
+            "brend": "MSI",
+            "price": 728,
+            "sprice": 838,
+            "color": "Qora",
+            "ram": "16 GB",
+            "geForce": "RTX 4090",
+            "core": "Intel I7",
+            "display": "16.5 Full HD",
+            "memory": "512 GB",
+            "weight": "1.5 KG",
+            "id": 107
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img9.jpeg?token=GHSAT0AAAAAACOWD3AS7JDEZNQPWAWZEUWMZPHAFVQ",
+            "title": "Ноутбук Acer Aspire 5 A517-56CC I5-1335U 8/512 GB SSD",
+            "brend": "Acer",
+            "price": 970,
+            "sprice": 998,
+            "color": "Qora",
+            "ram": "8 GB",
+            "geForce": "RTX 4090",
+            "core": "Intel I5",
+            "display": "16.5 Full HD",
+            "memory": "280 GB",
+            "weight": "1.5 KG",
+            "id": 108
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img10.jpeg?token=GHSAT0AAAAAACOWD3ATRU2ODLOFMABPOAJCZPHAJVA",
+            "title": "Ноутбук Acer Aspire 5 A515-58P-55AK I5-1335U 8/256GB",
+            "brend": "Acer",
+            "price": 780,
+            "sprice": 948,
+            "color": "Qora",
+            "ram": "8 GB",
+            "geForce": "RTX 4090",
+            "core": "Intel I5",
+            "display": "16.5 Full HD",
+            "memory": "280 GB",
+            "weight": "1.5 KG",
+            "id": 109
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img11.jpeg?token=GHSAT0AAAAAACOWD3ASZUAZBOBTIFF4BJ6WZPHAKTA",
+            "title": "Ноутбук Acer EX215 I5-1135G7 4/256GB 15.6 FHD",
+            "brend": "Acer",
+            "price": 810,
+            "sprice": 923,
+            "color": "Qora",
+            "ram": "8 GB",
+            "geForce": "RTX 4090",
+            "core": "Intel I5",
+            "display": "16.5 Full HD",
+            "memory": "280 GB",
+            "weight": "1.5 KG",
+            "id": 110
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img12.jpeg?token=GHSAT0AAAAAACOWD3ASG7U3BYL2CY6PGMFAZPHALRA",
+            "title": "Ноутбук Apple MacBook Pro 13 2020 Z0Y6000YK core i7 1068NG7 32/512ГБ SSD 13.3",
+            "brend": "Apple",
+            "price": 1336,
+            "sprice": 1458,
+            "color": "Qora",
+            "ram": "8 GB",
+            "geForce": "RTX 4090",
+            "core": "Intel I5",
+            "display": "16.5 Full HD",
+            "memory": "280 GB",
+            "weight": "1.5 KG",
+            "id": 111
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img13.jpeg?token=GHSAT0AAAAAACOWD3ATVEEDRFKKYNVEK4L4ZPHAMTA",
+            "title": "Ноутбук Lenovo Ideapad 1 15IGL7 N4020 4/256 GB SSD",
+            "brend": "Lenovo",
+            "price": 599,
+            "sprice": 673,
+            "color": "Qora",
+            "ram": "16 GB",
+            "geForce": "RTX 4090",
+            "core": "Intel I5",
+            "display": "16.5 Full HD",
+            "memory": "280 GB",
+            "weight": "1.5 KG",
+            "id": 112
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img14.jpeg?token=GHSAT0AAAAAACOWD3ATNQB75RCRL5GHDOE2ZPHANUQ",
+            "title": "Ноутбук Asus TUF Dash F15 i5-12450H 8/512GB SSD 15,6 FHD",
+            "brend": "Asus",
+            "price": 629,
+            "sprice": 748,
+            "color": "Qora",
+            "ram": "31 GB",
+            "geForce": "RTX 4090",
+            "core": "Intel I9",
+            "display": "17 Full HD",
+            "memory": "280 GB",
+            "weight": "1.5 KG",
+            "id": 113
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img15.jpeg?token=GHSAT0AAAAAACOWD3ATKXHPXT4BNWQO3MUUZPHAOXA",
+            "title": "Ноутбук MacBook Air M2 15 Starlight 256GB SSD",
+            "brend": "Apple",
+            "price": 1015,
+            "sprice": 1200,
+            "color": "Qora",
+            "ram": "8 GB",
+            "geForce": "RTX 4090",
+            "core": "Intel I5",
+            "display": "16.5 Full HD",
+            "memory": "280 GB",
+            "weight": "1.5 KG",
+            "id": 114
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img16.jpeg?token=GHSAT0AAAAAACOWD3ATTVWTST26UQJUZ6FWZPHAQNA",
+            "title": "Ноутбук MacBook Air M2 15 Midnight 512 ГБ SSD",
+            "brend": "Apple",
+            "price": 1115,
+            "sprice": 1240,
+            "color": "Qora",
+            "ram": "8 GB",
+            "geForce": "RTX 4090",
+            "core": "Intel I5",
+            "display": "16.5 Full HD",
+            "memory": "280 GB",
+            "weight": "1.5 KG",
+            "id": 115
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img17.jpeg?token=GHSAT0AAAAAACOWD3ASFV3ILV2PU6753B2WZPHAR4A",
+            "title": "Ноутбук Razer Blade 14 RZ09-0427 R9-6900HX 16 GB 1TB",
+            "brend": "Asus",
+            "price": 1050,
+            "sprice": 1210,
+            "color": "Qora",
+            "ram": "8 GB",
+            "geForce": "RTX 4090",
+            "core": "Intel I5",
+            "display": "16.5 Full HD",
+            "memory": "280 GB",
+            "weight": "1.5 KG",
+            "id": 116
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img18.jpeg?token=GHSAT0AAAAAACOWD3ATA4TZFEPFB2BCKTUCZPHASYQ",
+            "title": "Ноутбук Dell Alienware M15 R7 i7-12700H 16/512 GB SSD",
+            "brend": "Asus",
+            "price": 814,
+            "sprice": 978,
+            "color": "Qora",
+            "ram": "8 GB",
+            "geForce": "RTX 4090",
+            "core": "Intel I5",
+            "display": "16.5 Full HD",
+            "memory": "280 GB",
+            "weight": "1.5 KG",
+            "id": 117
+        }
+    ],
+    "electronika": [],
+    "aksiya": [
+        {
+            "id": 1,
+            "img": "https://gipermart-images.netlify.app/Aksiya/banner2.png"
+        },
+        {
+            "id": 2,
+            "img": "https://gipermart-images.netlify.app/Aksiya/banners3.png"
+        },
+        {
+            "id": 3,
+            "img": "https://gipermart-images.netlify.app/Aksiya/banner1.png"
+        }
+    ],
+    "sport": []
+}
